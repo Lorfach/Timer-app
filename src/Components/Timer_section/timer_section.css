@@ -1,0 +1,14 @@
+.start_button:hover{
+    box-shadow:0px 0px 8px rgba(0, 255, 0, 0.3);
+    opacity:1 !important;
+}
+
+.stop_button:hover{
+    box-shadow:0px 0px 8px rgba(255, 0, 0, 0.3);
+    opacity:1 !important;
+}
+
+.pause_button:hover{
+    box-shadow:0px 0px 8px rgba(249, 180, 45, 0.3);
+    opacity:1 !important;
+}
